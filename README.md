@@ -15,7 +15,7 @@ test_images:
 
 test_results:
 - colour correction image
-- difference between original and colour corrected image
+- difference between original and colour corrected image (it requires the highest level of screen brightness to be visualised as differences are subtle)
 
 results:
 - 4 test images after colour correction
