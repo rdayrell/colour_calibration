@@ -1,6 +1,6 @@
 # Colour calibration
 
-A colour chart (Spyder Checkr® 24 card, Datacolor, NJ, USA) was scanned in a flatbed scanner (HP Scanjet G4010) at a resolution of 1,200 dpi under the same settings as the seeds. The image of the colour chart is used to calculate a colour conversion matrix, which is then applied to all acquired images for optimal colour reproduction.
+The colour chart Spyder Checkr® 24 card (Datacolor, NJ, USA) is used for colour calibration of images. All images were acquired with a flatbed scanner (HP Scanjet G4010) at a resolution of 1,200 dpi at the same colour and light settings. The code creates a colour conversion matrix, which is then applied to images.
 
 # Contents
 
